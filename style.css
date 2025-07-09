@@ -2,15 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
-#top{
-    flex: 1;
-    height: 5%;
-}
-
-main {
-    flex: 2;
-}
 #heading {
     font-size: 4vmax;
     text-align: center;
@@ -25,7 +16,7 @@ main {
 
 #user {
     width: 48vw;
-    height:95%;
+    height: 89.9vh;
     text-align: center;
     background-color: #EDB88B;
 }
@@ -38,8 +29,6 @@ main {
 }
 body {
     background-color: #FAD8D6;
-    display: flex;
-    flex-direction: column;
 }
 
 .turn {
