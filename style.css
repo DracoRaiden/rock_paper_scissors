@@ -8,25 +8,32 @@
     background-color: #CD5334;
 }
 
+#top {
+    height: 5%;
+}
+
+
 #front {
+    height: 100%;
     display: flex;  
     flex-wrap: wrap;
     justify-content: center;
 }
 
 #user {
-    width: 48vw;
-    height: 89.9vh;
+    width: 50%;
+    height: 100%;
     text-align: center;
     background-color: #EDB88B;
 }
 
 #computer {
-    width: 48vw;
-    height: 89.9vh;
+    width: 50%;
+    height: 100%;
     text-align: center;
     background-color: #a1836b;
 }
+
 body {
     background-color: #FAD8D6;
 }
